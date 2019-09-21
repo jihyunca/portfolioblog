@@ -1,36 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to my mini blog!
 
-You can use the [editor on GitHub](https://github.com/jihyunca/portfolioblog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here I will be talking about some of my experiences that have really influenced me or shaped me into a better (or more experienced) person today. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hopefully you can learn from my lessons, or be inspired to partake in some of the opportunties that I have discovered over my time in university and also as a tech student in general. 
 
 ### Hack the North
 
 Recently, I went to Hack the North for the first time!
+
 ```markdown
-Syntax highlighted code block
+As a student at the University of Waterloo, a lot of people asked me: "Did you go to Hack the North?"
+Surprisingly, although I was an avid hacker, I had never had the chance to attend my own university's hackathon, until this year.
 
-# Header 1
-## Header 2
-### Header 3
+Not to toot my own university's horn, but I was really impressed. 
+Why? Here's a brief overview:
 
-- Bulleted
-- List
+1. Really well organized
+2. Friendly and really outgoing volunteers/organizers
+3. A lot of passion 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### PennApps
 
-### Jekyll Themes
+I was really scared to go to PennApps. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jihyunca/portfolioblog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+As the original 'college hackathon', I had high expectations. At the same time, Pennsylvannia is quite far (11 hour bus ride!) from Waterloo, so it was going to be a long journey. I was with a few of my friends who were first-time hackers, and I was scared that they would be left disappointed.
 
-### Support or Contact
+The hackathon didn't turn out the way I expected, but not necessarily in a negative way. Here's some of my takeaways. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Square Code Camp
