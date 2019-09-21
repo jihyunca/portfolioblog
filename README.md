@@ -4,10 +4,9 @@ You can use the [editor on GitHub](https://github.com/jihyunca/portfolioblog/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Hack the North
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Recently, I went to Hack the North for the first time!
 ```markdown
 Syntax highlighted code block
 
