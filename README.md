@@ -25,7 +25,7 @@ So...what did I make?
 
 Our team made a mobile application called PokeBank! We wanted to try out a few APIs that a bunch of companies were offering, to get used to using RESTful APIs as well as get to know some of the amazing sponsors and mentors we met over the weekend. 
 
-![alt text] (https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_thumbnail_photos/000/841/388/datas/medium.png)
+![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_thumbnail_photos/000/841/388/datas/medium.png)
 
 Tech Stack:
 
