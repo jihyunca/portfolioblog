@@ -1,10 +1,10 @@
-## Welcome to my mini blog!
+# Welcome to my mini blog!
 
 Here I will be talking about some of my experiences that have really influenced me or shaped me into a better (or more experienced) person today. 
 
 Hopefully you can learn from my lessons, or be inspired to partake in some of the opportunties that I have discovered over my time in university and also as a tech student in general. 
 
-### Hack the North
+## Hack the North
 
 Recently, I went to Hack the North for the first time!
 
@@ -48,7 +48,7 @@ Not only this, but the team created a segment where the students can also set up
 
 Hack the North was a blast. I got to learn a lot of new technologies that I had never touched before, and meet some intelligent mentors. It was a tiring--but heck of a learning experience.
 
-### PennApps
+## PennApps
 
 I was really scared to go to PennApps. 
 
@@ -74,7 +74,7 @@ PennApps was my first hackathon outside of the country, so I was able to meet so
 
 If you're a little shy (STEM stereotype, but often true), but would love to expand your horizons and meet some new people, go to hackathons. It's a good excuse to make friends, and everyone will be excited to share their 'nerd' part with you. 
 
-### Hack the 6ix
+## Hack the 6ix
 
 Hack the 6ix is a hackathon in Toronto of a pretty good scale. This was actually the first hackathon I ever attended in 2018, and I was lucky enough to go again in 2019. It was a lot of reminiscing, appreciating, and enjoying. 
 
