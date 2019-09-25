@@ -25,6 +25,8 @@ So...what did I make?
 
 Our team made a mobile application called PokeBank! We wanted to try out a few APIs that a bunch of companies were offering, to get used to using RESTful APIs as well as get to know some of the amazing sponsors and mentors we met over the weekend. 
 
+![alt text] (https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_thumbnail_photos/000/841/388/datas/medium.png)
+
 Tech Stack:
 
 ```markdown
@@ -80,13 +82,14 @@ Last year, I teamed with some random students who I had never met before. I can 
 
 This year, I mixed it a little bit and grouped with a few of my friends from university. We match perfectly, and our chemistry can get kind of out of hand which leaves us a little distracted at times, but nonetheless, we have a great time. 
 
-After hours of debating on what to do, we wanted to fight an issue that is pounding with importance: the environment. 
+After hours of debating on what to do, we wanted to fight an issue that is pounding with importance: the environment.
+We did this all by creating an application called GlassWings.
+
+We wanted to create a platform where any user, regardless of their property and income, could share what kind of insurance they bought based on the environmental factors of their property. Afterwards, GlassWings would predict the type of insurance and cost based on the user's location, and use real-time data from actual users. 
 
 We made a web application called Glass Wings.
 
 ![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/829/724/datas/gallery.jpg)
-
-
 
 Tech Stack:
 
